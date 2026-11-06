@@ -17,13 +17,7 @@
 
 <br>
 
-<!-- PROJETOS -->
-<table width="100%">
-<tr><th colspan="2" align="center">PROJETOS.EXE // QUEST LOG</th></tr>
-<tr><td><b>01 // Sistema de Secretaria e Oficinas</b><br><sub>Documentação, requisitos e organização de um sistema acadêmico.</sub></td><td>EM DESENVOLVIMENTO</td></tr>
-<tr><td><b>02 // Clínica Veterinária / Pet Shop</b><br><sub>Requisitos, cenários e casos de teste.</sub></td><td>PROJETO ACADÊMICO</td></tr>
-<tr><td><b>03 // Exercícios em C</b><br><sub>Algoritmos, condicionais, repetição e vetores.</sub></td><td>EM APRENDIZADO</td></tr>
-</table>
+<img src="assets/projetos.svg" width="100%" alt="Meus projetos"/>
 
 <br>
 
