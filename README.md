@@ -30,6 +30,16 @@
 
 <br><br>
 
+
+<h2 align="center">CONTRIBUTION SNAKE // Atividade</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IsabellyTubys/IsabellyTubys/output/snake.svg" width="100%" alt="Cobrinha de contribuições"/>
+</div>
+
+<br>
+  
+
 <img src="assets/rodape.png.png" width="100%" alt="Rodapé Pixel Art"/>
 
 </div>
