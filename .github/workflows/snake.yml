@@ -14,11 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Gerar cobrinha
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: IsabellyTubys
-          outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#FFAD66&color_dots=#0D1117,#28556A,#428DAA,#82D9FF,#FFAD66
+         outputs: |
+  dist/snake.svg?palette=github-dark&color_snake=#FFAD66&color_dots=#0D1117,#28556A,#428DAA,#82D9FF,#FFAD66
+  dist/snake.gif?palette=github-dark&color_snake=#FFAD66&color_dots=#0D1117,#28556A,#428DAA,#82D9FF,#FFAD66
 
       - name: Publicar cobrinha
         uses: crazy-max/ghaction-github-pages@v4
