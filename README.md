@@ -19,13 +19,10 @@
 <!-- PAINEL DE ESTATÍSTICAS -->
 <img src="assets/estatisticas.svg" width="100%" alt="Painel de estatísticas"/>
 
-<!-- ESTATÍSTICAS AUTOMÁTICAS -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=PLAYER%20STATS%20%2F%2F%20DADOS%20REAIS&fontColor=FFAD66&fontSize=23&fontAlignY=50" width="100%" alt="Player Stats"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsabellyTubys&theme=github_dark" width="48%" alt="Estatísticas do GitHub"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsabellyTubys&theme=github_dark" width="48%" alt="Linguagens utilizadas"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabellyTubys&theme=github_dark" width="98%" alt="Histórico de contribuições"/>
+
+
 
 <!-- RODAPÉ -->
 <img src="assets/rodape.png.png" width="100%" alt="Rodapé Pixel Art"/>
