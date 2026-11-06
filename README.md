@@ -21,18 +21,7 @@
 
 <br>
 
-<!-- ESTATÍSTICAS -->
-<table width="100%">
-<tr><th align="center">PLAYER_STATS.EXE // STATUS</th></tr>
-<tr><td align="center">
-<b>PLAYER:</b> IsabellyTubys<br>
-<b>CLASS:</b> Developer in Training<br>
-<b>STATUS:</b> Aprendendo e criando projetos<br><br>
-<a href="https://github.com/IsabellyTubys?tab=repositories">VER REPOSITÓRIOS</a>
-&nbsp; | &nbsp;
-<a href="https://github.com/IsabellyTubys">VER CONTRIBUIÇÕES</a>
-</td></tr>
-</table>
+<img src="assets/estatisticas.svg" width="100%" alt="Estatísticas da Isabelly"/>
 
 <br>
 
