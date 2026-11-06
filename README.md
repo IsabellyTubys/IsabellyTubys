@@ -31,8 +31,6 @@
 <br><br>
 
 
-<h2 align="center">CONTRIBUTION SNAKE // Atividade</h2>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/IsabellyTubys/IsabellyTubys/output/snake.svg" width="100%" alt="Cobrinha de contribuições"/>
 </div>
