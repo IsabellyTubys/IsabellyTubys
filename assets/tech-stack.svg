@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-label="TECH STACK EXE, habilidades de Isabelly: C, C++, GitHub, lógica, algoritmos, vetores e repetição">
+<rect width="960" height="390" fill="#0D1117"/>
+<rect x="7" y="7" width="946" height="376" rx="8" fill="#101A24" stroke="#82D9FF" stroke-width="3"/>
+<rect x="12" y="12" width="936" height="62" fill="#152A37"/>
+<path d="M13 74H947" stroke="#82D9FF" stroke-width="2"/>
+<rect x="29" y="30" width="20" height="20" fill="#FFAD66"/><rect x="34" y="35" width="10" height="10" fill="#0D1117"/>
+<text x="65" y="52" fill="#FFAD66" font-size="27" font-weight="bold" font-family="DejaVu Sans Mono,monospace">TECH_STACK.EXE</text>
+<text x="688" y="50" fill="#82D9FF" font-size="17" font-family="DejaVu Sans Mono,monospace">[ INVENTARIO ]</text>
+<g font-family="DejaVu Sans Mono,monospace">
+<rect x="34" y="101" width="277" height="150" rx="8" fill="#0D1117" stroke="#82D9FF" stroke-width="2"/>
+<rect x="341" y="101" width="277" height="150" rx="8" fill="#0D1117" stroke="#FFAD66" stroke-width="2"/>
+<rect x="648" y="101" width="277" height="150" rx="8" fill="#0D1117" stroke="#82D9FF" stroke-width="2"/>
+<text x="172" y="160" text-anchor="middle" fill="#82D9FF" font-size="51" font-weight="bold">C</text>
+<text x="479" y="160" text-anchor="middle" fill="#FFAD66" font-size="48" font-weight="bold">C++</text>
+<text x="786" y="160" text-anchor="middle" fill="#82D9FF" font-size="39" font-weight="bold">GIT</text>
+<text x="172" y="198" text-anchor="middle" fill="#F5F7FA" font-size="20" font-weight="bold">LINGUAGEM C</text>
+<text x="479" y="198" text-anchor="middle" fill="#F5F7FA" font-size="20" font-weight="bold">C++</text>
+<text x="786" y="198" text-anchor="middle" fill="#F5F7FA" font-size="20" font-weight="bold">GITHUB</text>
+<text x="172" y="228" text-anchor="middle" fill="#B8C8D5" font-size="15">Em aprendizado</text>
+<text x="479" y="228" text-anchor="middle" fill="#B8C8D5" font-size="15">Nivel inicial</text>
+<text x="786" y="228" text-anchor="middle" fill="#B8C8D5" font-size="15">Projetos e codigo</text>
+<text x="36" y="291" fill="#FFAD66" font-size="20" font-weight="bold">HABILIDADES EM DESENVOLVIMENTO</text>
+<path d="M36 304H923" stroke="#365568" stroke-width="2"/>
+<text x="40" y="340" fill="#F5F7FA" font-size="18">&gt; Logica de programacao</text>
+<text x="385" y="340" fill="#F5F7FA" font-size="18">&gt; Algoritmos</text>
+<text x="650" y="340" fill="#F5F7FA" font-size="18">&gt; Vetores e loops</text>
+<rect x="36" y="359" width="190" height="5" fill="#82D9FF"/><rect x="230" y="359" width="95" height="5" fill="#FFAD66"/>
+</g></svg>
