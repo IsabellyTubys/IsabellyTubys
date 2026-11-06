@@ -13,25 +13,7 @@
 
 <br><br>
 
-<!-- TECH STACK -->
-<table width="100%">
-<tr><th colspan="3" align="center">TECH_STACK.EXE // INVENTÁRIO</th></tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/c/82D9FF" height="35" alt="C"/><br><b>Linguagem C</b><br><sub>Em aprendizado</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/cplusplus/FFAD66" height="35" alt="C++"/><br><b>C++</b><br><sub>Conhecimentos iniciais</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" height="35" alt="GitHub"/><br><b>GitHub</b><br><sub>Organização de projetos</sub>
-</td>
-</tr>
-<tr><td colspan="3" align="center">
-<b>Habilidades em desenvolvimento</b><br>
-Lógica de Programação • Algoritmos • Vetores • Estruturas de Repetição
-</td></tr>
-</table>
+<img src="assets/tech-stack.svg" width="100%" alt="Minhas habilidades"/>
 
 <br>
 
